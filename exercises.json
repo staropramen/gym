@@ -20,7 +20,7 @@
 			"imagePath" : "barbell_bench",
 			"youtubeKey" : "YQnZuQLnJ3k",
 			"exerciseType" : 0,
-			"muscleGroup" : [0],
+			"muscleGroup" : [0, 1],
 			"secondaryMuscles" : [1, 2]
 		},
 		{

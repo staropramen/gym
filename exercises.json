@@ -21,8 +21,7 @@
 			"youtubeKey" : "YQnZuQLnJ3k",
 			"exerciseType" : 0,
 			"muscleGroup" : [0],
-			"secondaryMuscles" : [1, 2],
-			"notes" : ""
+			"secondaryMuscles" : [1, 2]
 		},
 		{
 			"exerciseName" : "Standing High to Low Cable Fly",
@@ -30,8 +29,7 @@
 			"youtubeKey" : "JHqmhZ12rr0",
 			"exerciseType" : 0,
 			"muscleGroup" : [0],
-			"secondaryMuscles" : [1, 2],
-			"notes" : ""
+			"secondaryMuscles" : [1, 2]
 		},
 		{
 			"exerciseName" : "Neutral Grip Dumbbell Bench Press",

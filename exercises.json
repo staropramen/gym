@@ -1,5 +1,5 @@
 {
-	"version" : 1,
+	"version" : 2,
 	"muscles" : [
 		"Chest",
 		"Shoulders", 
@@ -95,7 +95,7 @@
 			"notes" : ""
 		},
 		{
-			"exerciseName" : "Standing Cable Crunch",
+			"exerciseName" : "Standing Cable TODO Crunch",
 			"imagePath" : "dummy",
 			"youtubeKey" : "wBzU6_YJPEU",
 			"exerciseType" : 0,
@@ -123,6 +123,15 @@
 		},
 		{
 			"exerciseName" : "Cable Hip Adduction",
+			"imagePath" : "dummy",
+			"youtubeKey" : "5Mkus4JdXDE",
+			"exerciseType" : 0,
+			"muscleGroup" : [6],
+			"secondaryMuscles" : [7, 8],
+			"notes" : ""
+		},
+		{
+			"exerciseName" : "Balabala Bum Bum",
 			"imagePath" : "dummy",
 			"youtubeKey" : "5Mkus4JdXDE",
 			"exerciseType" : 0,

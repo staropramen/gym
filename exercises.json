@@ -1,5 +1,5 @@
 {
-	"version" : 7,
+	"version" : 8,
 	"muscles" : [
 		"Chest",
 		"Shoulders", 
@@ -17,7 +17,7 @@
 	"exercises" : [
 		{
 			"api_id" : 0,
-			"exerciseName" : "Wide Grip TEST Barbell Bench",
+			"exerciseName" : "Wide Grip Barbell Bench",
 			"imagePath" : "barbell_bench",
 			"youtubeKey" : "YQnZuQLnJ3k",
 			"exerciseType" : 0,
@@ -45,7 +45,7 @@
 		},
 		{
 			"api_id" : 3,
-			"exerciseName" : "Weighted Chest Dip",
+			"exerciseName" : "Weighted TEST Chest Dip",
 			"imagePath" : "chest_dip",
 			"youtubeKey" : "dX_nSOOJIsE",
 			"exerciseType" : 0,

@@ -1,5 +1,5 @@
 {
-	"version" : 2,
+	"version" : 1,
 	"muscles" : [
 		"Chest",
 		"Shoulders", 
@@ -136,26 +136,6 @@
 		{
 			"api_id" : 12,
 			"exerciseName" : "Cable Hip Adduction",
-			"imagePath" : "dummy",
-			"youtubeKey" : "5Mkus4JdXDE",
-			"exerciseType" : 0,
-			"muscleGroup" : [6],
-			"secondaryMuscles" : [7, 8],
-			"notes" : ""
-		},
-		{
-			"api_id" : 13,
-			"exerciseName" : "Balabala Bum Bum",
-			"imagePath" : "dummy",
-			"youtubeKey" : "5Mkus4JdXDE",
-			"exerciseType" : 0,
-			"muscleGroup" : [6],
-			"secondaryMuscles" : [7, 8],
-			"notes" : ""
-		},
-		{
-			"api_id" : 14,
-			"exerciseName" : "TEST TEST",
 			"imagePath" : "dummy",
 			"youtubeKey" : "5Mkus4JdXDE",
 			"exerciseType" : 0,

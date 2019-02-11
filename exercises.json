@@ -1,5 +1,5 @@
 {
-	"version" : 2,
+	"version" : 1,
 	"muscles" : [
 		"Chest",
 		"Shoulders", 
@@ -35,7 +35,7 @@
 		},
 		{
 			"apiId" : 2,
-			"exerciseName" : "Neutral Grip TEST Dumbbell Bench Press",
+			"exerciseName" : "Neutral Grip Dumbbell Bench Press",
 			"imagePath" : "neutral_dumbell_press",
 			"youtubeKey" : "3CYW028cECg",
 			"exerciseType" : 0,
@@ -45,7 +45,7 @@
 		},
 		{
 			"apiId" : 3,
-			"exerciseName" : "Weighted TEST Chest Dip",
+			"exerciseName" : "Weighted Chest Dip",
 			"imagePath" : "chest_dip",
 			"youtubeKey" : "dX_nSOOJIsE",
 			"exerciseType" : 0,
@@ -136,26 +136,6 @@
 		{
 			"apiId" : 12,
 			"exerciseName" : "Cable Hip Adduction",
-			"imagePath" : "dummy",
-			"youtubeKey" : "5Mkus4JdXDE",
-			"exerciseType" : 0,
-			"muscleGroup" : [6],
-			"secondaryMuscles" : [7, 8],
-			"notes" : ""
-		},
-		{
-			"apiId" : 13,
-			"exerciseName" : "Balabala Bum Bum",
-			"imagePath" : "dummy",
-			"youtubeKey" : "5Mkus4JdXDE",
-			"exerciseType" : 0,
-			"muscleGroup" : [6],
-			"secondaryMuscles" : [7, 8],
-			"notes" : ""
-		},
-		{
-			"apiId" : 14,
-			"exerciseName" : "TEST TEST",
 			"imagePath" : "dummy",
 			"youtubeKey" : "5Mkus4JdXDE",
 			"exerciseType" : 0,

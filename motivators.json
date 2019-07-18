@@ -1,5 +1,4 @@
-{
-	"motivators" : [
+[
 		{
 			"primaryKey" : 1,
 			"motivationText" : "Nothing feels so well as doing something for your belly."
@@ -43,5 +42,5 @@
 		{
 			"primaryKey" : 11,
 			"motivationText" : "See you later alligator, at the training."
-		}]
-}
+		}
+]

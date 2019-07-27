@@ -1,0 +1,46 @@
+[
+	{
+		"primaryKey" : 1,
+		"motivationText" : "Nichts fühlt sich so gut an wie etwas für den Bauch zu tun."
+	},
+	{
+		"primaryKey" : 2,
+		"motivationText" : "Kaffeepause? Besser wäre jetzt ein Training."
+	},
+	{
+		"primaryKey" : 3,
+		"motivationText" : "Schau zu deinem Bauch. Willst du gleich loslegen?"
+	},
+	{
+		"primaryKey" : 4,
+		"motivationText" : "Kleine Pause? Mach was für deinen Bauch."
+	},
+	{
+		"primaryKey" : 5,
+		"motivationText" : "Hey, wir vermissen Dich. Komm doch zum Training."
+	},
+	{
+		"primaryKey" : 6,
+		"motivationText" : "Müde? Ein Training wird dir helfen."
+	},
+	{
+		"primaryKey" : 7,
+		"motivationText" : "Dein Bauch hat uns gesagt er wolle jetzt trainieren."
+	},
+	{
+		"primaryKey" : 8,
+		"motivationText" : "Definiere deinen Bauch, komm zum Training"
+	},
+	{
+		"primaryKey" : 9,
+		"motivationText" : "Lass und schnell trainieren, dann fühlst du dich besser."
+	},
+	{
+		"primaryKey" : 10,
+		"motivationText" : "Stress auf der Arbeit? Lass uns deinen Bauch definieren."
+	},
+	{
+		"primaryKey" : 11,
+		"motivationText" : "See you later alligator, beim Training."
+	}
+]

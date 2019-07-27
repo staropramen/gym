@@ -1,0 +1,46 @@
+[
+	{
+		"primaryKey" : 1,
+		"motivationText" : "Nada melhor que fazer algo para sua barriga."
+	},
+	{
+		"primaryKey" : 2,
+		"motivationText" : "Quer café? Melhor trainer sua barriga."
+	},
+	{
+		"primaryKey" : 3,
+		"motivationText" : "Cuide da sua barriga, Quer começar agora?"
+	},
+	{
+		"primaryKey" : 4,
+		"motivationText" : "Tem um intervalo? Faz algo para sua barriga."
+	},
+	{
+		"primaryKey" : 5,
+		"motivationText" : "Oi, sentimos a sua falta. Venha treinar."
+	},
+	{
+		"primaryKey" : 6,
+		"motivationText" : "Cansado? Um treini vai te ajudar."
+	},
+	{
+		"primaryKey" : 7,
+		"motivationText" : "Sua barriga nós falou que ela quer treinar."
+	},
+	{
+		"primaryKey" : 8,
+		"motivationText" : "Defina sua barriga, venha trainar."
+	},
+	{
+		"primaryKey" : 9,
+		"motivationText" : "Var treinar rapidinho, depois você vai se sentir melhor."
+	},
+	{
+		"primaryKey" : 10,
+		"motivationText" : "Seu dia foi tenso? Um treino vai te acalmar."
+	},
+	{
+		"primaryKey" : 11,
+		"motivationText" : "Ei amigo, até depois A gente se vê no treino."
+	}
+]

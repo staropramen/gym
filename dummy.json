@@ -1,0 +1,167 @@
+{
+	"version" : 2,
+	"muscles" : [
+		"Chest",
+		"Shoulders", 
+		"Triceps",
+		"Biceps",
+		"Forearms",
+		"Abs",
+		"Adductors",
+		"Glutes",
+		"Hamstrings"
+	],
+	"mainGroups" : [
+		"Strength"
+	],
+	"exercises" : [
+		{
+			"apiId" : 0,
+			"exerciseName" : "Wide Grip Barbell Bench",
+			"imagePath" : "barbell_bench",
+			"youtubeKey" : "YQnZuQLnJ3k",
+			"exerciseType" : 0,
+			"muscleGroup" : [0],
+			"secondaryMuscles" : [1, 2]
+		},
+		{
+			"apiId" : 1,
+			"exerciseName" : "Standing High to Low Cable Fly",
+			"imagePath" : "cable_fly",
+			"youtubeKey" : "JHqmhZ12rr0",
+			"exerciseType" : 0,
+			"muscleGroup" : [0],
+			"secondaryMuscles" : [1, 2]
+		},
+		{
+			"apiId" : 2,
+			"exerciseName" : "Neutral Grip TEST Dumbbell Bench Press",
+			"imagePath" : "neutral_dumbell_press",
+			"youtubeKey" : "3CYW028cECg",
+			"exerciseType" : 0,
+			"muscleGroup" : [0],
+			"secondaryMuscles" : [1, 2],
+			"notes" : ""
+		},
+		{
+			"apiId" : 3,
+			"exerciseName" : "Weighted TEST Chest Dip",
+			"imagePath" : "chest_dip",
+			"youtubeKey" : "dX_nSOOJIsE",
+			"exerciseType" : 0,
+			"muscleGroup" : [0],
+			"secondaryMuscles" : [1, 2],
+			"notes" : ""
+		},
+		{
+			"apiId" : 4,
+			"exerciseName" : "Butterfly",
+			"imagePath" : "butterfly",
+			"youtubeKey" : "Z57CtFmRMxA",
+			"exerciseType" : 0,
+			"muscleGroup" : [0],
+			"secondaryMuscles" : [1, 2],
+			"notes" : ""
+		},
+		{
+			"apiId" : 5,
+			"exerciseName" : "Standing Dumbbell Reverse Curl",
+			"imagePath" : "dummy",
+			"youtubeKey" : "i5h3myNHVFk",
+			"exerciseType" : 0,
+			"muscleGroup" : [3],
+			"secondaryMuscles" : [4],
+			"notes" : ""
+		},
+		{
+			"apiId" : 6,
+			"exerciseName" : "Close Grip Standing Barbell Curl",
+			"imagePath" : "dummy",
+			"youtubeKey" : "exqx_2Uyopw",
+			"exerciseType" : 0,
+			"muscleGroup" : [3],
+			"secondaryMuscles" : [4],
+			"notes" : ""
+		},
+		{
+			"apiId" : 7,
+			"exerciseName" : "Cable Curl",
+			"imagePath" : "dummy",
+			"youtubeKey" : "AsAVbj7puKo",
+			"exerciseType" : 0,
+			"muscleGroup" : [3],
+			"secondaryMuscles" : [],
+			"notes" : ""
+		},
+		{
+			"apiId" : 8,
+			"exerciseName" : "One Arm Standing Hammer Curl",
+			"imagePath" : "dummy",
+			"youtubeKey" : "TwD-YGVP4Bk",
+			"exerciseType" : 0,
+			"muscleGroup" : [3],
+			"secondaryMuscles" : [3],
+			"notes" : ""
+		},
+		{
+			"apiId" : 9,
+			"exerciseName" : "Standing Cable Crunch",
+			"imagePath" : "dummy",
+			"youtubeKey" : "wBzU6_YJPEU",
+			"exerciseType" : 0,
+			"muscleGroup" : [5],
+			"secondaryMuscles" : [],
+			"notes" : ""
+		},
+		{
+			"apiId" : 10,
+			"exerciseName" : "Twisting Cable Crunch",
+			"imagePath" : "dummy",
+			"youtubeKey" : "z09UFehZBeo",
+			"exerciseType" : 0,
+			"muscleGroup" : [5],
+			"secondaryMuscles" : [0],
+			"notes" : ""
+		},
+		{
+			"apiId" : 11,
+			"exerciseName" : "Hip Adduction Machine",
+			"imagePath" : "dummy",
+			"youtubeKey" : "Oj7IN952fSg",
+			"exerciseType" : 0,
+			"muscleGroup" : [6],
+			"secondaryMuscles" : [7, 8],
+			"notes" : ""
+		},
+		{
+			"apiId" : 12,
+			"exerciseName" : "Cable Hip Adduction",
+			"imagePath" : "dummy",
+			"youtubeKey" : "5Mkus4JdXDE",
+			"exerciseType" : 0,
+			"muscleGroup" : [6],
+			"secondaryMuscles" : [7, 8],
+			"notes" : ""
+		},
+		{
+			"apiId" : 13,
+			"exerciseName" : "Balabala Bum Bum",
+			"imagePath" : "dummy",
+			"youtubeKey" : "5Mkus4JdXDE",
+			"exerciseType" : 0,
+			"muscleGroup" : [6],
+			"secondaryMuscles" : [7, 8],
+			"notes" : ""
+		},
+		{
+			"apiId" : 14,
+			"exerciseName" : "TEST TEST",
+			"imagePath" : "dummy",
+			"youtubeKey" : "5Mkus4JdXDE",
+			"exerciseType" : 0,
+			"muscleGroup" : [6],
+			"secondaryMuscles" : [7, 8],
+			"notes" : ""
+		}
+	]
+}

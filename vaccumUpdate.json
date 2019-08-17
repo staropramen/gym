@@ -1,0 +1,61 @@
+{
+	"Update" : [
+			{
+				"version" : 1,
+				"trainingTutorialKey" : "",
+				"appTutorialKey" : "",
+				"exercises" : [
+						{
+							"exerciseName" : "Rosebush",
+							"videoUrl" : "GcDZ6B5kNOQ"
+						}
+				],
+				"motivators" : [
+						{
+							"primaryKey" : 1,
+							"motivationText" : "Nothing feels so well as doing something for your belly."
+						},
+						{
+							"primaryKey" : 2,
+							"motivationText" : "Having a coffee? Better have a quick training."
+						},
+						{
+							"primaryKey" : 3,
+							"motivationText" : "Care for your belly. Want to start now?"
+						},
+						{
+							"primaryKey" : 4,
+							"motivationText" : "Have a little break? Do something for your belly."
+						},
+						{
+							"primaryKey" : 5,
+							"motivationText" : "Hey we’re missing you. Come to training."
+						},
+						{
+							"primaryKey" : 6,
+							"motivationText" : "Feeling tired? A quick training will help."
+						},
+						{
+								"primaryKey" : 7,
+								"motivationText" : "Your belly told us that he would like to have a training."
+						},
+						{
+							"primaryKey" : 8,
+							"motivationText" : "Define your belly, come to training."
+						},
+						{
+							"primaryKey" : 9,
+							"motivationText" : "Let’s have a quick training, the you feel better."
+						},
+						{
+							"primaryKey" : 10,
+							"motivationText" : "Stressed in your work? Let’s define your belly."
+						},
+						{
+							"primaryKey" : 11,
+							"motivationText" : "See you later alligator, at the training."
+						}
+					]
+			}
+	]
+}
